@@ -1,0 +1,11 @@
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp_Console.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp_Console.XML
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp_Console.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp_Console.pdb
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp.Core.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\System.ValueTuple.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\FSharp.Core.xml
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\bin\Release\ru\FSharp.Core.resources.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\obj\Release\FSharp_Console.fsproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\obj\Release\FSharp_Console.exe
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\FSharp_Console\FSharp_Console\obj\Release\FSharp_Console.pdb
